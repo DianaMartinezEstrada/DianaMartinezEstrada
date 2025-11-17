@@ -24,7 +24,8 @@ Here you'll find some of my work, notes, and everything I'm learning on my journ
 - Tools:
   - Git & GitHub
   - Excel / Google Sheets
-  - Basic project management tools (Jira, Trello, Notion)
+  - Postman, Apidoc to create and inspect HTTP request
+  - Basic project management tools (Jira)
 
 ---
 
@@ -36,6 +37,14 @@ Here you'll find some of my work, notes, and everything I'm learning on my journ
 - Begin expanding into **automated testing** in the future
 
 ---
+
+## 💡 My Projects (Academic projects, QA Engineer Bootcamp, TripleTen (2025)
+- Analyzed functional requirements and developed test cases and checklists for user scenarios.
+- Performed functional and UI testing, documenting issues and generating reports in Jira.
+- Executed manual API tests with Postman, validating HTTP responses and endpoints.
+- Collaborated on visual and functional review using Figma, ensuring consistency between design and development.
+- Results: Reduced errors in the testing environment and clear documentation of 15 or more functional defects during the QA cycle.
+
 
 ## 📫 Contact
 You can reach me at: diana_martinez_estrada@outlook.com

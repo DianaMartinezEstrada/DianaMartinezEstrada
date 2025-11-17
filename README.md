@@ -38,7 +38,7 @@ Here you'll find some of my work, notes, and everything I'm learning on my journ
 ---
 
 ## 📫 Contact
-You can reach me at: **(add your email here)**
+You can reach me at: diana_martinez_estrada@outlook.com
 
 ---
 
